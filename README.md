@@ -8,6 +8,7 @@ A little bit about myself...
 <p>In 5-10 years from now, I see myself living in another state or city as the cost of living in South Florida seems to be steadily increasing with no sign of slowing down. I also envision myself with
 a master’s degree at this point in whichever field of computer science I decide to hone in on. I would like to be working as a software developer or in a cybersecurity position at a prominent tech company while still learning new skills to make me better at my job.</p>
 
+I'm currently learning Java, HTML, CSS, and some Python.
 
 <imgsrc>![FIU ID PHOTO](https://github.com/MichaelDiaz47/Michael-Diaz/assets/147767233/d48c8a23-707e-41c8-8488-b21168990787)
 
