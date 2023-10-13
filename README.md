@@ -13,3 +13,5 @@ I'm currently learning Java, HTML, CSS, and some Python.
 <imgsrc>![FIU ID PHOTO](https://github.com/MichaelDiaz47/Michael-Diaz/assets/147767233/d48c8a23-707e-41c8-8488-b21168990787)
 
 <b>Linkedin:</b> <ahref>https://www.linkedin.com/in/michael-diaz-790899285/
+
+<b>Gmail:</b> <ahref>Michaeldiaz5899@gmail.com
